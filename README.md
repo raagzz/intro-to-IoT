@@ -4,7 +4,7 @@
 Contains the IoT research paper summary of the **ATTICUS** paper
 
 ## Time Series Analysis on IoT Data
-Contains the source code of Time Series Analysis on the Air Pollution Monitoring Sensor Nodes Data from **IIIT Hyderabad**. Data is collected from % IoT enabled low-cost sensor nodes monitoring **Temperature**, **Humidity**, and **Particulate Matter(PM)**, one of the dominant pollutants are deployed in the IIITH Campus.
+Contains the source code of Time Series Analysis on the Air Pollution Monitoring Sensor Nodes Data from **IIIT Hyderabad**. Data is collected from 5 IoT enabled low-cost sensor nodes monitoring **Temperature**, **Humidity**, and **Particulate Matter(PM)**, one of the dominant pollutants are deployed in the IIITH Campus.
 
 #### Data Visualization
 - Temperature of the Nodes
